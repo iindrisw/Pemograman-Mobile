@@ -8,7 +8,7 @@ export default function App() {
       <Text>Nama lengkap : Indri Setiawati</Text>
       <Text>Tempat, Tanggal lahir: Cirebon, 30 Agustus 2006</Text>
       <Text>Cita-Cita : menjadi org kaya raya </Text>
-      <Text>Rencana Hidup : adadeh </Text>
+      <Text>Rencana Hidup : ingin menjadi org kaya dan tinggal di swiss </Text>
 
       <StatusBar style="auto" />
     </View>
