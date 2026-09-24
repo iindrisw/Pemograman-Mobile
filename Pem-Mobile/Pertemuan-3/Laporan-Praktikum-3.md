@@ -49,24 +49,31 @@ Konfirmasi bukti
 
 Langkah 6 : ScrollView & Profil Section (View, Text, img/image)
 Konfirmasi Bukti
+![alt text](image-8.png)
 
 
 Langkah 7 : FlatList (Daftar Skills)
 Konfirmasi bukti
+![alt text](image-9.png)
 
 
 Langkah 8 : SectionList (Pengalaman & Pendidikan)
 Konfirmasi bukti 
+![alt text](image-10.png)
 
 
 Langkah 9 : TextInput, Button & ActivityIndicator
 Konfirmasi bukti
+![alt text](image-11.png)
 
 Langkah 10 : Modal (Popup Detail)
 Konfirmasi bukti
+![alt text](image-12.png)
 
 Langkah 11 : StyleSheet (Styling Terpusat)
 Konfirmasi bukti
+![alt text](image-13.png)
 
 Langkah 12 : Verifikasi & Pengujian
 Konfirmasi bukti
+![alt text](<Screen Recording 2026-09-23 154359.gif>)
