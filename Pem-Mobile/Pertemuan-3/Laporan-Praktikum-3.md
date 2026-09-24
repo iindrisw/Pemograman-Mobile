@@ -76,4 +76,4 @@ Konfirmasi bukti
 
 Langkah 12 : Verifikasi & Pengujian
 Konfirmasi bukti
-![alt text](<Screen Recording 2026-09-23 154359.gif>)
+![alt text](<Screen Recording 2026-09-24 082441.gif>)
