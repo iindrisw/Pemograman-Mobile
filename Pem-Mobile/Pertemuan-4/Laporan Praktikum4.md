@@ -33,7 +33,7 @@ file Signup.js
 ![alt text](image-4.png)
 
 Langkah 3 : Uji coba klik tombol untuk berpindah maju dan mundur antar layar
-![alt text](satu.gif) 
+![alt text](<ptmn-4-1 (1).gif>)
 
 Langkah 4: konfigurasi app.js
 ![alt text](image-5.png)
@@ -51,6 +51,9 @@ file ProfileScreen.js
 
 Langkah 3 : Konfigurasi Tab di App.js
 ![alt text](image-9.png)
+
+Langkah 4: tab navigation
+![alt text](<ptmn-4-2 (1).gif>)
 
 ### Praktikum 3
 ### Langkah 1: Instalasi Pustaka Drawer
